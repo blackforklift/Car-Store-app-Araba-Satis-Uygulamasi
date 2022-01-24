@@ -1,0 +1,15 @@
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Final_Araba_Satis\bin\Debug\Final_Araba_Satis.exe.config
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Final_Araba_Satis\bin\Debug\Final_Araba_Satis.exe
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Final_Araba_Satis\bin\Debug\Final_Araba_Satis.pdb
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Final_Araba_Satis\obj\Debug\Final_Araba_Satis.Araba.resources
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Final_Araba_Satis\obj\Debug\Final_Araba_Satis.Properties.Resources.resources
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Final_Araba_Satis\obj\Debug\Final_Araba_Satis.csproj.GenerateResource.cache
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Final_Araba_Satis\obj\Debug\Final_Araba_Satis.csproj.CoreCompileInputs.cache
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Final_Araba_Satis\obj\Debug\Final_Araba_Satis.exe
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Final_Araba_Satis\obj\Debug\Final_Araba_Satis.pdb
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Final_Araba_Satis\obj\Debug\Final_Araba_Satis.Satış.resources
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Final_Araba_Satis\obj\Debug\Final_Araba_Satis.Fatura.resources
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Final_Araba_Satis\obj\Debug\Final_Araba_Satis.csprojAssemblyReference.cache
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Final_Araba_Satis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Final_Araba_Satis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DİLAN ŞAŞKIN\Source\Repos\Final_Araba_Satis\obj\Debug\Final_Araba_Satis.csproj.CopyComplete
